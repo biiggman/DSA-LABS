@@ -1,0 +1,37 @@
+C:\Users\School\Desktop\DSA\LAB 2\obj\uabstst2.exe
+Initial List. SIZE:  5
+Car with    3 doors made by Chev
+
+Car with    2 doors made by Ford
+
+Car with    4 doors made by Ford
+
+Car with    2 doors made by GMC 
+
+Car with    2 doors made by RAM 
+
+List after deletion. SIZE:  4
+Car with    3 doors made by Chev
+
+Car with    4 doors made by Ford
+
+Car with    2 doors made by GMC 
+
+Car with    2 doors made by RAM 
+
+FINAL PRODUCT: 
+Plane with    4 doors,    4 engines, made by Cessna  
+
+Plane with    2 doors,    1 engines, made by Piper   
+
+Plane with    3 doors,    6 engines, made by Boeing  
+
+Car with    3 doors made by Chev
+
+Car with    4 doors made by Ford
+
+Car with    2 doors made by GMC 
+
+Car with    2 doors made by RAM 
+
+[2022-10-18 22:14:32] process terminated successfully, elapsed time: 00.22s
